@@ -5,7 +5,7 @@
 
 ### Commands
 • sm_toggle_join
-○ Toggles team joining.
++ Toggles team joining.
 
 ### To-Do
 • Language support will be added soon.
@@ -17,7 +17,7 @@
 
 ### Comandos
 • sm_toggle_join
-○ Alterna la unión a equipos.
++ Alterna la unión a equipos.
 
 ### Por hacer
 • Pronto se agregará soporte de idiomas.
